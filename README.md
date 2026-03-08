@@ -49,3 +49,9 @@
 ## Links
 - GitHub: https://github.com/c4twilight
 - LinkedIn: https://www.linkedin.com/in/mohd-talib-689960141/
+
+## Resume
+- Resume snapshot: https://github.com/c4twilight/c4twilight/blob/main/RESUME.md
+
+## Open to Roles
+- Senior Backend / Java Engineer roles (Microservices, Distributed Systems, Cloud-Native backend).
